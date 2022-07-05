@@ -29,7 +29,7 @@ body{
     color: whitesmoke;
     margin-right: 430px;
     margin-left: 430px;
-    font-size: 19px;
+    font-size: 15px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
@@ -64,15 +64,15 @@ body{
     color: gray;
     margin-right: 430px;
     margin-left: 430px;
-    font-size: 19px;
+    font-size: 15px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
 .middle-area-banner{
     display: flex;
     margin-top: 80px;
-    margin-left: 200px;
-    margin-right: 200px;
+    padding-left: 221px;
+    padding-right: 221px;
 }
 
 .middle-area-banner h2{
@@ -87,6 +87,26 @@ body{
     background: #FFCCCC;
     color: #FF5959;
     font-size: 30px;
+}
+.middle-area-hr{
+    text-align: center;
+    margin-top: 50px;
+}
+.middle-area-hr p{
+    color: gray;
+    margin-bottom: 20px;
+}
+.middle-area-hr hr{
+    width: 789px;
+}
+.middle-area-hr button{
+    padding: 15px 30px;
+    background-color:#FF5959;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    margin-top: 30px;
 }
 
 
