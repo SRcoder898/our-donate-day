@@ -209,13 +209,30 @@ body{
 #causes-area{
     margin-bottom: 100px;
 }
+.causes-area-heading{
+    text-align: center;
+}
+.causes-area-heading h1{
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+    letter-spacing: 3px;
+}
+.causes-area-heading p{
+    color: gray;
+    margin-right: 321px;
+    margin-left: 321px;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
 
 .causes-area-image img{
     width: 100%;
     height: 500px;
     object-fit: cover;
     z-index: auto;
-    border-radius: 100px;
+    border-radius: 200px 0 200px 0;
 }
 .causes-area-box{
     display: flex;
