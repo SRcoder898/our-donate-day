@@ -269,6 +269,30 @@ input[type=submit]{
     border: none;
 }
 
-
-
 /*CONTACT AREA CODE END*/
+
+/*FOOTER AREA CODE START*/
+
+#footer-area{
+    background-color: #0B0D17;
+}
+.footer-heading{
+    text-align: center;
+    
+}
+.footer-heading h2{
+    padding: 50px;
+    color: #FF5959;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+.footer-heading h5{
+    padding: 50px;
+    color: gray;
+    margin-top: -80px;
+    
+}
+
+/*FOOTER AREA CODE END*/
