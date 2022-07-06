@@ -202,7 +202,9 @@ body{
 /*DONATE BOX AREA CODE END*/
 
 /*CONTACT AREA CODE START*/
-
+#contact-area{
+    margin-bottom: 100px;
+}
 .contact-heading{
     text-align: center;
 }
@@ -214,11 +216,59 @@ body{
 }
 .contact-heading p{
     color: gray;
-    margin-right: 430px;
-    margin-left: 430px;
+    margin-right: 321px;
+    margin-left: 321px;
     font-size: 15px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
+.contact-container{
+    text-align: center;
+    background-color: #FFCCCC;
+    width: 50%;
+    padding-top: 50px;
+}
+.contact-email{
+    text-align: center;
+    background-color: #FFCCCC;
+    width: 50%;
+    padding-bottom: 50px;
+}
+input[type=text]{
+    padding: 10px;
+    border-color: #FFCCCC;
+    border: none;
+    border-radius: 5px;
+    margin: 24px;
+}
+.contact-email{
+    padding-top: 20px;
+}
+input[type=email]{
+    padding: 13px;
+    margin: -4px;
+    width: 268px;
+    border: none;
+    border-radius: 5px;
+    background-color: #D9D9D9;
+}
+.contact-email button{
+    padding: 13px;
+    margin: -4px;
+    width: 291pxpx;
+    border: none;
+    border-radius: 5px;
+    background-color: #e63939;
+    color: white;
+}
+input[type=submit]{
+    margin-top: 32px;
+    background-color: #EDF5F6;
+    color: black;
+    padding: 14px 46px;
+    border: none;
+}
+
+
 
 /*CONTACT AREA CODE END*/
