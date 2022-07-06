@@ -31,16 +31,18 @@ body{
     margin-left: 430px;
     font-size: 15px;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
-.banner-heading button{
+.banner-heading a{
 
     padding: 10px 20px;
     background-color: #FF5959;
     border: none;
     border-radius: 5px;
     color: white;
-    font-size: 15px;
+    cursor: pointer;
+    font-size: 18px;
+    text-decoration: none;
 }
 
 /*MAIN BANNER CODE END*/
@@ -107,6 +109,7 @@ body{
     color: white;
     font-size: 15px;
     margin-top: 30px;
+    cursor: pointer;
 }
 
 /* MIDDLE AREA CODE END */
@@ -212,7 +215,7 @@ body{
     height: 500px;
     object-fit: cover;
     z-index: auto;
-
+    border-radius: 100px;
 }
 .causes-area-box{
     display: flex;
@@ -220,21 +223,21 @@ body{
    
 }
 .first-causes-area-box{
-    background-color: #EDF5F6;
+    background-color: white;
     margin: 50px;
     padding: 50px;
     box-shadow: 5px 5px 5px gray;
 }
 
 .second-causes-area-box{
-    background-color: #EDF5F6;
+    background-color: white;
     margin: 50px;
     padding: 50px;
     box-shadow: 5px 5px 5px gray;
 }
 
 .third-causes-area-box{
-    background-color: #EDF5F6;
+    background-color: white;
     margin: 50px;
     padding: 50px;
     box-shadow: 5px 5px 5px gray;
@@ -265,6 +268,7 @@ body{
     color: white;
     font-size: 15px;
     margin-top: 30px;
+    cursor: pointer;
 }
 
 .second-causes-area-box button{
@@ -275,6 +279,7 @@ body{
     color: white;
     font-size: 15px;
     margin-top: 30px;
+    cursor: pointer;
 }
 
 .third-causes-area-box button{
@@ -285,6 +290,7 @@ body{
     color: white;
     font-size: 15px;
     margin-top: 30px;
+    cursor: pointer;
 }
 
 
@@ -351,6 +357,7 @@ input[type=email]{
     border-radius: 5px;
     background-color: #e63939;
     color: white;
+    cursor: pointer;
 }
 input[type=submit]{
     margin-top: 32px;
@@ -358,6 +365,7 @@ input[type=submit]{
     color: black;
     padding: 14px 46px;
     border: none;
+    cursor: pointer;
 }
 
 /*CONTACT AREA CODE END*/
