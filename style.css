@@ -317,56 +317,42 @@ body{
     margin-left: 321px;
     font-size: 15px;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 .contact-container{
     text-align: center;
-    background-color: #FFCCCC;
+    background-color: #FFF4D6;
     width: 50%;
     padding-top: 50px;
 }
 .contact-email{
     text-align: center;
-    background-color: #FFCCCC;
+    background-color: #FFF4D6;
     width: 50%;
     padding-bottom: 50px;
 }
-input[type=text]{
-    padding: 10px;
-    border-color: #FFCCCC;
-    border: none;
-    border-radius: 5px;
-    margin: 24px;
-}
 .contact-email{
-    padding-top: 20px;
+    padding: 100px;
 }
 input[type=email]{
     padding: 13px;
     margin: -4px;
     width: 268px;
     border: none;
-    border-radius: 5px;
     background-color: #D9D9D9;
+    border-radius: 5px 0 0 5px ;
 }
 .contact-email button{
     padding: 13px;
     margin: -4px;
     width: 291pxpx;
     border: none;
-    border-radius: 5px;
     background-color: #e63939;
     color: white;
     cursor: pointer;
+    border-radius: 0 5px 5px 0  ;
 }
-input[type=submit]{
-    margin-top: 32px;
-    background-color: #EDF5F6;
-    color: black;
-    padding: 14px 46px;
-    border: none;
-    cursor: pointer;
-}
+
 
 /*CONTACT AREA CODE END*/
 
