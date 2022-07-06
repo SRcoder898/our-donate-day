@@ -201,6 +201,97 @@ body{
 
 /*DONATE BOX AREA CODE END*/
 
+/*CAUSES BANNER AREA CODE START*/
+
+#causes-area{
+    margin-bottom: 100px;
+}
+
+.causes-area-image img{
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    z-index: auto;
+
+}
+.causes-area-box{
+    display: flex;
+    margin-top: -173px;
+   
+}
+.first-causes-area-box{
+    background-color: #EDF5F6;
+    margin: 50px;
+    padding: 50px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.second-causes-area-box{
+    background-color: #EDF5F6;
+    margin: 50px;
+    padding: 50px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.third-causes-area-box{
+    background-color: #EDF5F6;
+    margin: 50px;
+    padding: 50px;
+    box-shadow: 5px 5px 5px gray;
+}
+.first-causes-area-box p{
+      margin-top: 20px;
+      color: black;
+      line-height: 30px;
+      text-align: justify;
+}
+.second-causes-area-box p{
+    margin-top: 20px;
+    color: black;
+    line-height: 30px;
+    text-align: justify;
+}
+.third-causes-area-box p{
+    margin-top: 20px;
+    color: black;
+    line-height: 30px;
+    text-align: justify;
+}
+.first-causes-area-box button{
+    padding: 15px 30px;
+    background-color:#FF5959;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    margin-top: 30px;
+}
+
+.second-causes-area-box button{
+    padding: 15px 30px;
+    background-color:#FF5959;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    margin-top: 30px;
+}
+
+.third-causes-area-box button{
+    padding: 15px 30px;
+    background-color:#FF5959;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    margin-top: 30px;
+}
+
+
+
+
+/*CAUSES BANNER AREA CODE END*/
+
 /*CONTACT AREA CODE START*/
 #contact-area{
     margin-bottom: 100px;
