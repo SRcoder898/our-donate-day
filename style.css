@@ -189,19 +189,6 @@ body{
     margin-top: 20px;
 }
 
-.first-box-area:hover{
-    background-color: #FFF4D6;
-    transition: 0.6s;
-}
-.second-box-area:hover{
-    background-color: #EDF5F6;
-    transition: 0.6s;
-}
-.third-box-area:hover{
-    background-color: #FFEEEE;
-    transition: 0.6s;
-}
-
 /*DONATE BOX AREA CODE END*/
 
 /*CAUSES BANNER AREA CODE START*/
